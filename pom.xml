@@ -26,6 +26,7 @@
 		<module>springboot-creation-01</module>
 		<module>springboot-customer-api-02</module>
 		<module>springboot-jpa-h2-api-03</module>
+		<module>springboot-orders-api-04</module>
 	</modules>
 
 	<dependencies>
